@@ -1,5 +1,13 @@
-## Hi there, I'm Will 👋
+## 👋 Hi there, I'm Will 
 
+🎓 I'm a Computer Science student at CSULB, currently exploring backend development, APIs, and cloud platforms.
+💼 Incoming Software Engineering Intern @ Pacific Life  
+📚 Learning more about AWS and scalable backend architectures  
+📌 Interested in product-minded development and solving real-world problems through tech
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/willktrinh/)
+- [Email](william.k.trinh@gmail.com)
 <!--
 **Will-Trinh/Will-Trinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
