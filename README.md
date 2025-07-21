@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 - 🎓 I'm Will, a junior at CSULB studying computer science
-- 💼 Incoming Software Engineering Intern @ Pacific Life  
+- 💼 Software Engineering Intern @ Pacific Life  
 - 📚 Currently exploring backend development, APIs, cloud platforms, and scalable backend architectures
 - 📌 Interested in product-minded development and solving real-world problems through tech
 
